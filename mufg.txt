@@ -1,4 +1,5 @@
-CAP 1:
+# CAP 1
+
 Weapons
 10 X8
 2 US7
@@ -22,13 +23,19 @@ Mods
 5 VR MH
 4 FA
 4 Turret
-1 Key (Chiesa di S. Margherita)
 
-Tot attuale: 96
+Tot: 95
 
-CAP 2:
+# CAP 2
+
 45 R8 (+1 MUFG)
 45 X8
 
-CAP 3:
+Tot: 91
+
+# CAP 3
+
 90 X8
+1 AXA PS
+
+Tot: 91
