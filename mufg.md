@@ -16,15 +16,15 @@ Mods
 
 3 SB ULA
 
-4 R HS (+1 MUFG)
+4 R HS (+2 MUFG)
 4 VR HS
 
 8 R MH
 5 VR MH
 4 FA
-4 Turret
+4 Turret (+1)
 
-Tot: 95
+Tot: 97
 
 # CAP 2
 
@@ -35,7 +35,7 @@ Tot: 91
 
 # CAP 3
 
-90 X8
+90 X8 (+1 MUFG)
 1 AXA PS
 
 Tot: 91
