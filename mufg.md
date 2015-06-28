@@ -38,4 +38,4 @@ Tot: 91
 90 X8 (+1 MUFG)
 1 AXA PS
 
-Tot: 91
+Tot: 92
