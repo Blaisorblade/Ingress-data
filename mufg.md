@@ -1,18 +1,17 @@
 # CAP 1
 
 Weapons
-10 X8
 2 US7
 5 US8
-16 Ada
-17 Jarvis
+17 Ada
+18 Jarvis
 
 (50)
 
 Mods
 
 9 VR PS
-2 AXA PS (+1 MUFG)
+3 AXA PS (+1 MUFG)
 
 3 SB ULA
 
@@ -24,7 +23,7 @@ Mods
 4 FA
 4 Turret (+1)
 
-Tot: 97
+Tot: 90
 
 # CAP 2
 
@@ -36,6 +35,5 @@ Tot: 91
 # CAP 3
 
 90 X8 (+1 MUFG)
-1 AXA PS
 
-Tot: 92
+Tot: 91
