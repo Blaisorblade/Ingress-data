@@ -30,7 +30,7 @@ Tot: 90
 45 R8 (+2 MUFG)
 45 X8
 
-Tot: 91
+Tot: 92
 
 # CAP 3
 
