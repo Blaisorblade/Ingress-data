@@ -6,8 +6,6 @@ Weapons
 17 Ada
 18 Jarvis
 
-(50)
-
 Mods
 
 9 VR PS
