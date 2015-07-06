@@ -32,6 +32,6 @@ Tot: 97
 
 # CAP 3
 
-87 X8 (+12 MUFG)
+78 X8 (+12 MUFG)
 
-Tot: 99
+Tot: 90
