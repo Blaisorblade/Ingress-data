@@ -9,7 +9,7 @@ Weapons
 Mods
 
 9 VR PS
-3 AXA PS (+2 MUFG)
+2 AXA PS (+2 MUFG)
 
 3 SB ULA
 
