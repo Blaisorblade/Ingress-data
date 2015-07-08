@@ -26,12 +26,12 @@ Tot: 93
 # CAP 2
 
 36 R8 (+4 MUFG)
-45 X8 (+4 MUFG)
+45 X8 (+5 MUFG)
 
-Tot: 89
+Tot: 90
 
 # CAP 3
 
-78 X8 (+13 MUFG)
+78 X8 (+14 MUFG)
 
-Tot: 91
+Tot: 92
