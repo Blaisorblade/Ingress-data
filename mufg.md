@@ -4,22 +4,22 @@ Weapons
 2 US7
 5 US8
 17 Ada (+1 MUFG)
-18 Jarvis (+1 MUFG)
+19 Jarvis (+1 MUFG)
 
 Mods
 
 9 VR PS
-2 AXA PS (+2 MUFG)
+4 AXA PS (+2 MUFG)
 
-3 SB ULA
+5 SB ULA
 
 4 R HS (+2 MUFG)
-4 VR HS
+5 VR HS
 
-8 R MH
-5 VR MH
-4 FA (+1 MUFG)
-4 Turret (+2 MUFG)
+6 R MH
+6 VR MH
+2 FA (+1 MUFG)
+1 Turret (+2 MUFG)
 
 Tot: 94
 
