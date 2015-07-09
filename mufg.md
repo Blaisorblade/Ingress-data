@@ -18,10 +18,10 @@ Mods
 
 8 R MH
 5 VR MH
-4 FA
+4 FA (+1 MUFG)
 4 Turret (+2 MUFG)
 
-Tot: 93
+Tot: 94
 
 # CAP 2
 
