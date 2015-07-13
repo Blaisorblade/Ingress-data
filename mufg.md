@@ -17,10 +17,10 @@ Mods
 
 6 R MH (+1 MUFG)
 6 VR MH
-2 FA (+1 MUFG)
-1 Turret (+2 MUFG)
+1 FA (+1 MUFG)
+0 Turret (+2 MUFG)
 
-Tot: 98
+Tot: 96
 
 # CAP 2
 
