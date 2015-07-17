@@ -15,22 +15,22 @@ Mods
 4 R HS (+2 MUFG)
 5 VR HS
 
-6 R MH (+1 MUFG)
+6 R MH (+2 MUFG)
 6 VR MH
 1 FA (+1 MUFG)
-0 Turret (+2 MUFG)
+0 Turret (+3 MUFG)
 
-Tot: 96
+Tot: 98
 
 # CAP 2
 
-36 R8 (+4 MUFG)
-45 X8 (+8 MUFG)
+36 R8 (+5 MUFG)
+45 X8 (+10 MUFG)
 
-Tot: 93
+Tot: 96
 
 # CAP 3
 
-78 X8 (+16 MUFG)
+78 X8 (+22 MUFG)
 
-Tot: 94
+Tot: 100
