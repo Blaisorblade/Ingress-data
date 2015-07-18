@@ -25,16 +25,16 @@ Tot: 95
 
 2 R1
 
-66 R8 (6 MUFG)
+65 R8 (6 MUFG)
 0 X8 (10 MUFG)
 
 18 VR PS
 10 PC8
 
-Tot: 96
+Tot: 95
 
 # CAP 3
 
-96 X8 (23 MUFG)
+95 X8 (23 MUFG)
 
-Tot: 96
+Tot: 95
