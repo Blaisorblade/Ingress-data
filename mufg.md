@@ -1,15 +1,14 @@
 # CAP 1
 
 2 R1
+8 R8
 
 Weapons
 0 US8 (1 MUFG)
 21 Ada (4 MUFG)
-22 Jarvis (3 MUFG)
+23 Jarvis (3 MUFG)
 
 Mods
-
-9 AXA PS (2 MUFG)
 
 8 SB ULA (1 MUFG)
 
@@ -25,10 +24,11 @@ Tot: 95
 
 # CAP 2
 
-67 R8 (7 MUFG)
+57 R8 (7 MUFG)
 0 X8 (10 MUFG)
 
-18 VR PS
+19 VR PS
+9 AXA PS (2 MUFG)
 10 PC8
 
 Tot: 95
