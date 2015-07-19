@@ -1,5 +1,7 @@
 # CAP 1
 
+2 R1
+
 Weapons
 0 US8 (1 MUFG)
 21 Ada (4 MUFG)
@@ -19,19 +21,17 @@ Mods
 0 FA (1 MUFG)
 0 Turret (3 MUFG)
 
-Tot: 93
+Tot: 95
 
 # CAP 2
 
-2 R1
-
-66 R8 (7 MUFG)
+67 R8 (7 MUFG)
 0 X8 (10 MUFG)
 
 18 VR PS
 10 PC8
 
-Tot: 96
+Tot: 95
 
 # CAP 3
 
