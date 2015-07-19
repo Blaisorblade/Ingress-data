@@ -38,3 +38,13 @@ Tot: 96
 95 X8 (25 MUFG)
 
 Tot: 95
+
+# CAP 4
+95 R8 (0 MUFG)
+
+Tot: 95
+
+# CAP 5
+95 X8 (0 MUFG)
+
+Tot: 95
