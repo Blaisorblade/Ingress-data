@@ -10,7 +10,7 @@ Weapons
 
 Mods
 
-8 SB ULA (1 MUFG)
+9 SB ULA (2 MUFG)
 
 11 R HS (2 MUFG)
 5 VR HS
@@ -20,24 +20,24 @@ Mods
 0 FA (1 MUFG)
 0 Turret (3 MUFG)
 
-Tot: 95
+Tot: 96
 
 # CAP 2
 
-57 R8 (7 MUFG)
+58 R8 (8 MUFG)
 0 X8 (10 MUFG)
 
 19 VR PS
 9 AXA PS (2 MUFG)
 10 PC8
 
-Tot: 95
+Tot: 96
 
 # CAP 3
 
-95 X8 (25 MUFG)
+97 X8 (27 MUFG)
 
-Tot: 95
+Tot: 97
 
 # CAP 4
 95 R8 (0 MUFG)
@@ -45,6 +45,6 @@ Tot: 95
 Tot: 95
 
 # CAP 5
-95 X8 (0 MUFG)
+98 X8 (3 MUFG)
 
-Tot: 95
+Tot: 98
