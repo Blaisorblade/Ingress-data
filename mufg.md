@@ -45,6 +45,6 @@ Tot: 95
 Tot: 95
 
 # CAP 5
-96 X8 (7 MUFG)
+95 X8 (7 MUFG)
 
-Tot: 96
+Tot: 95
