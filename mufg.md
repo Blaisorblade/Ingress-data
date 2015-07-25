@@ -22,6 +22,8 @@ Mods
 
 Tot: 95
 
+
+
 # CAP 2
 
 55 R8 (9 MUFG)
@@ -33,16 +35,22 @@ Tot: 95
 
 Tot: 95
 
+
+
 # CAP 3
 
 95 X8 (28 MUFG)
 
 Tot: 95
 
+
+
 # CAP 4
 95 R8 (3 MUFG)
 
 Tot: 95
+
+
 
 # CAP 5
 95 X8 (7 MUFG)
