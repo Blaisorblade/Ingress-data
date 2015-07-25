@@ -26,29 +26,29 @@ Tot: 95
 
 # CAP 2
 
-56 R8 (10 MUFG)
+53 R8 (10 MUFG)
 0 X8 (10 MUFG)
 
 21 VR PS
 11 AXA PS (4 MUFG)
 10 PC8
 
-Tot: 98
+Tot: 95
 
 
 
 # CAP 3
 
-98 X8 (31 MUFG)
+95 X8 (31 MUFG)
 
-Tot: 98
+Tot: 95
 
 
 
 # CAP 4
-96 R8 (4 MUFG)
+95 R8 (4 MUFG)
 
-Tot: 96
+Tot: 95
 
 
 
