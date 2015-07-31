@@ -1,7 +1,7 @@
 # CAP 1
 
 0 R1
-14 R8 (1 MUFG)
+11 R8 (1 MUFG)
 
 Weapons
 0 US8 (1 MUFG)
@@ -18,7 +18,7 @@ Mods
 0 FA (1 MUFG)
 0 Turret (3 MUFG)
 
-Tot: 98
+Tot: 95
 
 
 
@@ -47,9 +47,9 @@ Tot: 95
 
 
 # CAP 4
-96 R8 (9 MUFG)
+95 R8 (9 MUFG)
 
-Tot: 96
+Tot: 95
 
 
 
