@@ -57,3 +57,19 @@ Tot: 95
 95 X8 (14 MUFG)
 
 Tot: 95
+
+
+
+# CAP 6
+
+2 R1
+8 R2
+8 R3
+25 R4
+15 R5
+16 R6
+1 Key Misc
+15 Key Old Astronomic Institute
+5 Key TuBus Ahornweg
+
+Total: 95
