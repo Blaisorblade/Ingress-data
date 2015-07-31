@@ -1,24 +1,24 @@
 # CAP 1
 
 0 R1
-16 R8
+17 R8 (1 MUFG)
 
 Weapons
 0 US8 (1 MUFG)
 25 Ada (7 MUFG)
-28 Jarvis (8 MUFG)
+29 Jarvis (9 MUFG)
 
 Mods
 
 10 SB ULA (3 MUFG)
 
-11 R HS (3 MUFG)
+12 R HS (4 MUFG)
 5 VR HS
 
 0 FA (1 MUFG)
 0 Turret (3 MUFG)
 
-Tot: 95
+Tot: 98
 
 
 
@@ -40,9 +40,9 @@ Tot: 95
 
 # CAP 3
 
-95 X8 (38 MUFG)
+97 X8 (40 MUFG)
 
-Tot: 95
+Tot: 97
 
 
 
